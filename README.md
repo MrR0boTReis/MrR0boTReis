@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/valdemir-reis-882abb239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5511989108156&text=Ol%C3%A1%20Amigo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/MrR0boTReis/MrROboTReis/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MrR0boTReis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
