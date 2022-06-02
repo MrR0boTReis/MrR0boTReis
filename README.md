@@ -3,7 +3,6 @@
 
 - 🔭 Hoje eu trabalho com Front-end
 - 🌱 Estudando Javascript
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: sudo apt-get constant upgrade
 
